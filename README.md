@@ -1,6 +1,6 @@
 # Simple Webchat Application
 
-This project is a beginner-friendly chat app built with Python TCP sockets.
+This project is a beginner-friendly chat app built with Python TCP sockets. (all changes saved on local environment hence the big commit)
 
 ## Files
 
